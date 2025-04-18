@@ -1,15 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <string.h>
 
 // Write a program using dynamic memory allocation that prints out words of a sentence in reverse order. 
 // Example: 
 // Input: I love Programming Languages course 
 // Output: course Languages Programming love
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 int main() {
     char str[200];
